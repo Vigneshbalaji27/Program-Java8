@@ -7,7 +7,7 @@ public class AltPairs
       	System.out.println("enter the String : ");
       	String s1=s.nextLine();
       	//char c[]=s1.toCharArray();
-      	//System.out.println(c);
+      	/*System.out.println(c);*/
       	String b=altPairs(s1);
       	System.out.println("The value of b "+b);
 	}
